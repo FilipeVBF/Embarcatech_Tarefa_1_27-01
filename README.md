@@ -29,3 +29,4 @@ Este projeto explora o uso de interrupções no microcontrolador RP2040 por meio
 
 ## Vídeo da Solução
 Segue abaixo o link do vídeo da demonstração do projeto:
+[Ver vídeo](https://drive.google.com/file/d/1EzlkCDcOXzWt5Jzm4htikJSd7KDI8sJl/view?usp=sharing)
